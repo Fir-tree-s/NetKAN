@@ -14,6 +14,7 @@ depends:
   - name: ScaledDecorator
 suggests:
   - name: CosmicFrontiers-Gigantia
+  - name: Singularity
 install:
   - find: Core
     install_to: GameData/Cosmic_Frontiers
